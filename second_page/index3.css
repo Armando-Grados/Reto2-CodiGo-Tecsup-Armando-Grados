@@ -131,9 +131,13 @@
     width: 12rem;
     height: 23rem;
     color: rgba(245, 245, 245, 0.745);
+    opacity: 0.8;
 }
 
-
+.box:hover{
+    background-color: rgba(16, 16, 16, 0.778);
+    opacity: 1;
+}
 
 .box-img{
     background-color: yellow;
